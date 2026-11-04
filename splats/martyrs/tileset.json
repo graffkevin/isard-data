@@ -18,7 +18,7 @@
   "extensionsUsed": [
     "3DTILES_content_gltf"
   ],
-  "geometricError": 6.821611404418945,
+  "geometricError": 1247.8441162109375,
   "root": {
     "boundingVolume": {
       "box": [
@@ -893,7 +893,7 @@
                                 "content": {
                                   "uri": "tiles/0-0-7-2-7-3-6.glb"
                                 },
-                                "geometricError": 0.05309896543622017,
+                                "geometricError": 0.21239586174488068,
                                 "refine": "REPLACE"
                               },
                               {
@@ -922,7 +922,7 @@
                             "content": {
                               "uri": "tiles/0-0-7-2-7-3.glb"
                             },
-                            "geometricError": 0.1063740998506546,
+                            "geometricError": 0.4254963994026184,
                             "refine": "REPLACE"
                           },
                           {
@@ -1189,21 +1189,21 @@
                             "content": {
                               "uri": "tiles/0-0-7-2-7-7.glb"
                             },
-                            "geometricError": 0.10560297966003418,
+                            "geometricError": 0.4224119186401367,
                             "refine": "REPLACE"
                           }
                         ],
                         "content": {
                           "uri": "tiles/0-0-7-2-7.glb"
                         },
-                        "geometricError": 0.21288713812828064,
+                        "geometricError": 0.8515485525131226,
                         "refine": "REPLACE"
                       }
                     ],
                     "content": {
                       "uri": "tiles/0-0-7-2.glb"
                     },
-                    "geometricError": 0.42589735984802246,
+                    "geometricError": 1.7035894393920898,
                     "refine": "REPLACE"
                   },
                   {
@@ -1444,7 +1444,7 @@
                         "content": {
                           "uri": "tiles/0-0-7-3-1.glb"
                         },
-                        "geometricError": 0.2128216028213501,
+                        "geometricError": 0.8512864112854004,
                         "refine": "REPLACE"
                       },
                       {
@@ -1667,7 +1667,7 @@
                         "content": {
                           "uri": "tiles/0-0-7-3-3.glb"
                         },
-                        "geometricError": 0.21239450573921204,
+                        "geometricError": 0.8495780229568481,
                         "refine": "REPLACE"
                       },
                       {
@@ -1890,7 +1890,7 @@
                         "content": {
                           "uri": "tiles/0-0-7-3-5.glb"
                         },
-                        "geometricError": 0.2128216028213501,
+                        "geometricError": 0.8512864112854004,
                         "refine": "REPLACE"
                       },
                       {
@@ -2091,7 +2091,7 @@
                         "content": {
                           "uri": "tiles/0-0-7-3-6.glb"
                         },
-                        "geometricError": 0.21287038922309875,
+                        "geometricError": 0.851481556892395,
                         "refine": "REPLACE"
                       },
                       {
@@ -2292,14 +2292,14 @@
                         "content": {
                           "uri": "tiles/0-0-7-3-7.glb"
                         },
-                        "geometricError": 0.21279826760292053,
+                        "geometricError": 0.8511930704116821,
                         "refine": "REPLACE"
                       }
                     ],
                     "content": {
                       "uri": "tiles/0-0-7-3.glb"
                     },
-                    "geometricError": 0.4258606433868408,
+                    "geometricError": 1.7034425735473633,
                     "refine": "REPLACE"
                   },
                   {
@@ -2712,7 +2712,7 @@
                             "content": {
                               "uri": "tiles/0-0-7-6-3-3.glb"
                             },
-                            "geometricError": 0.10530093312263489,
+                            "geometricError": 0.42120373249053955,
                             "refine": "REPLACE"
                           },
                           {
@@ -2807,7 +2807,7 @@
                         "content": {
                           "uri": "tiles/0-0-7-6-3.glb"
                         },
-                        "geometricError": 0.21282954514026642,
+                        "geometricError": 0.8513181805610657,
                         "refine": "REPLACE"
                       },
                       {
@@ -2902,7 +2902,7 @@
                     "content": {
                       "uri": "tiles/0-0-7-6.glb"
                     },
-                    "geometricError": 0.42583978176116943,
+                    "geometricError": 1.7033591270446777,
                     "refine": "REPLACE"
                   },
                   {
@@ -3143,7 +3143,7 @@
                         "content": {
                           "uri": "tiles/0-0-7-7-1.glb"
                         },
-                        "geometricError": 0.2128216028213501,
+                        "geometricError": 0.8512864112854004,
                         "refine": "REPLACE"
                       },
                       {
@@ -3366,7 +3366,7 @@
                         "content": {
                           "uri": "tiles/0-0-7-7-3.glb"
                         },
-                        "geometricError": 0.21262545883655548,
+                        "geometricError": 0.8505018353462219,
                         "refine": "REPLACE"
                       },
                       {
@@ -3461,21 +3461,21 @@
                     "content": {
                       "uri": "tiles/0-0-7-7.glb"
                     },
-                    "geometricError": 0.4258606433868408,
+                    "geometricError": 1.7034425735473633,
                     "refine": "REPLACE"
                   }
                 ],
                 "content": {
                   "uri": "tiles/0-0-7.glb"
                 },
-                "geometricError": 0.8521028757095337,
+                "geometricError": 3.4084115028381348,
                 "refine": "REPLACE"
               }
             ],
             "content": {
               "uri": "tiles/0-0.glb"
             },
-            "geometricError": 1.7046351432800293,
+            "geometricError": 6.818540573120117,
             "refine": "REPLACE"
           },
           {
@@ -3884,7 +3884,7 @@
                         "content": {
                           "uri": "tiles/0-1-6-0-1.glb"
                         },
-                        "geometricError": 0.21296465396881104,
+                        "geometricError": 0.8518586158752441,
                         "refine": "REPLACE"
                       },
                       {
@@ -4085,7 +4085,7 @@
                         "content": {
                           "uri": "tiles/0-1-6-0-2.glb"
                         },
-                        "geometricError": 0.21299177408218384,
+                        "geometricError": 0.8519670963287354,
                         "refine": "REPLACE"
                       },
                       {
@@ -4286,7 +4286,7 @@
                         "content": {
                           "uri": "tiles/0-1-6-0-3.glb"
                         },
-                        "geometricError": 0.21296055614948273,
+                        "geometricError": 0.8518422245979309,
                         "refine": "REPLACE"
                       },
                       {
@@ -4509,7 +4509,7 @@
                         "content": {
                           "uri": "tiles/0-1-6-0-5.glb"
                         },
-                        "geometricError": 0.21296465396881104,
+                        "geometricError": 0.8518586158752441,
                         "refine": "REPLACE"
                       },
                       {
@@ -4710,7 +4710,7 @@
                         "content": {
                           "uri": "tiles/0-1-6-0-6.glb"
                         },
-                        "geometricError": 0.21299177408218384,
+                        "geometricError": 0.8519670963287354,
                         "refine": "REPLACE"
                       },
                       {
@@ -4739,7 +4739,7 @@
                     "content": {
                       "uri": "tiles/0-1-6-0.glb"
                     },
-                    "geometricError": 0.42618104815483093,
+                    "geometricError": 1.7047241926193237,
                     "refine": "REPLACE"
                   },
                   {
@@ -4958,7 +4958,7 @@
                         "content": {
                           "uri": "tiles/0-1-6-1-0.glb"
                         },
-                        "geometricError": 0.21287570893764496,
+                        "geometricError": 0.8515028357505798,
                         "refine": "REPLACE"
                       },
                       {
@@ -5119,7 +5119,7 @@
                     "content": {
                       "uri": "tiles/0-1-6-1.glb"
                     },
-                    "geometricError": 0.4261145293712616,
+                    "geometricError": 1.7044581174850464,
                     "refine": "REPLACE"
                   },
                   {
@@ -5338,7 +5338,7 @@
                         "content": {
                           "uri": "tiles/0-1-6-2-0.glb"
                         },
-                        "geometricError": 0.21299277245998383,
+                        "geometricError": 0.8519710898399353,
                         "refine": "REPLACE"
                       },
                       {
@@ -5649,7 +5649,7 @@
                         "content": {
                           "uri": "tiles/0-1-6-2-6.glb"
                         },
-                        "geometricError": 0.21302703022956848,
+                        "geometricError": 0.8521081209182739,
                         "refine": "REPLACE"
                       },
                       {
@@ -5850,14 +5850,14 @@
                         "content": {
                           "uri": "tiles/0-1-6-2-7.glb"
                         },
-                        "geometricError": 0.21289946138858795,
+                        "geometricError": 0.8515978455543518,
                         "refine": "REPLACE"
                       }
                     ],
                     "content": {
                       "uri": "tiles/0-1-6-2.glb"
                     },
-                    "geometricError": 0.42613551020622253,
+                    "geometricError": 1.7045420408248901,
                     "refine": "REPLACE"
                   },
                   {
@@ -6208,7 +6208,7 @@
                         "content": {
                           "uri": "tiles/0-1-6-3-6.glb"
                         },
-                        "geometricError": 0.2129068821668625,
+                        "geometricError": 0.85162752866745,
                         "refine": "REPLACE"
                       },
                       {
@@ -6237,7 +6237,7 @@
                     "content": {
                       "uri": "tiles/0-1-6-3.glb"
                     },
-                    "geometricError": 0.4260689914226532,
+                    "geometricError": 1.7042759656906128,
                     "refine": "REPLACE"
                   },
                   {
@@ -6438,7 +6438,7 @@
                     "content": {
                       "uri": "tiles/0-1-6-4.glb"
                     },
-                    "geometricError": 0.42618104815483093,
+                    "geometricError": 1.7047241926193237,
                     "refine": "REPLACE"
                   },
                   {
@@ -6723,7 +6723,7 @@
                         "content": {
                           "uri": "tiles/0-1-6-6-2.glb"
                         },
-                        "geometricError": 0.21302703022956848,
+                        "geometricError": 0.8521081209182739,
                         "refine": "REPLACE"
                       },
                       {
@@ -6924,7 +6924,7 @@
                         "content": {
                           "uri": "tiles/0-1-6-6-3.glb"
                         },
-                        "geometricError": 0.21289946138858795,
+                        "geometricError": 0.8515978455543518,
                         "refine": "REPLACE"
                       },
                       {
@@ -7019,7 +7019,7 @@
                     "content": {
                       "uri": "tiles/0-1-6-6.glb"
                     },
-                    "geometricError": 0.42613551020622253,
+                    "geometricError": 1.7045420408248901,
                     "refine": "REPLACE"
                   },
                   {
@@ -7220,14 +7220,14 @@
                     "content": {
                       "uri": "tiles/0-1-6-7.glb"
                     },
-                    "geometricError": 0.4260689914226532,
+                    "geometricError": 1.7042759656906128,
                     "refine": "REPLACE"
                   }
                 ],
                 "content": {
                   "uri": "tiles/0-1-6.glb"
                 },
-                "geometricError": 0.8524712324142456,
+                "geometricError": 3.4098849296569824,
                 "refine": "REPLACE"
               },
               {
@@ -7256,7 +7256,7 @@
             "content": {
               "uri": "tiles/0-1.glb"
             },
-            "geometricError": 1.7053455114364624,
+            "geometricError": 6.82138204574585,
             "refine": "REPLACE"
           },
           {
@@ -7837,7 +7837,7 @@
                             "content": {
                               "uri": "tiles/0-2-5-0-5-4.glb"
                             },
-                            "geometricError": 0.10622696578502655,
+                            "geometricError": 0.4249078631401062,
                             "refine": "REPLACE"
                           },
                           {
@@ -7910,7 +7910,7 @@
                         "content": {
                           "uri": "tiles/0-2-5-0-5.glb"
                         },
-                        "geometricError": 0.21270307898521423,
+                        "geometricError": 0.8508123159408569,
                         "refine": "REPLACE"
                       },
                       {
@@ -7961,7 +7961,7 @@
                     "content": {
                       "uri": "tiles/0-2-5-0.glb"
                     },
-                    "geometricError": 0.4254535734653473,
+                    "geometricError": 1.7018142938613892,
                     "refine": "REPLACE"
                   },
                   {
@@ -8268,7 +8268,7 @@
                         "content": {
                           "uri": "tiles/0-2-5-4-1.glb"
                         },
-                        "geometricError": 0.2126256823539734,
+                        "geometricError": 0.8505027294158936,
                         "refine": "REPLACE"
                       },
                       {
@@ -8509,7 +8509,7 @@
                             "content": {
                               "uri": "tiles/0-2-5-4-3-0.glb"
                             },
-                            "geometricError": 0.10613986849784851,
+                            "geometricError": 0.42455947399139404,
                             "refine": "REPLACE"
                           },
                           {
@@ -8670,7 +8670,7 @@
                         "content": {
                           "uri": "tiles/0-2-5-4-3.glb"
                         },
-                        "geometricError": 0.21253272891044617,
+                        "geometricError": 0.8501309156417847,
                         "refine": "REPLACE"
                       },
                       {
@@ -8937,14 +8937,14 @@
                         "content": {
                           "uri": "tiles/0-2-5-4-7.glb"
                         },
-                        "geometricError": 0.21231739223003387,
+                        "geometricError": 0.8492695689201355,
                         "refine": "REPLACE"
                       }
                     ],
                     "content": {
                       "uri": "tiles/0-2-5-4.glb"
                     },
-                    "geometricError": 0.4255301058292389,
+                    "geometricError": 1.7021204233169556,
                     "refine": "REPLACE"
                   },
                   {
@@ -9207,7 +9207,7 @@
                         "content": {
                           "uri": "tiles/0-2-5-6-1.glb"
                         },
-                        "geometricError": 0.21268868446350098,
+                        "geometricError": 0.8507547378540039,
                         "refine": "REPLACE"
                       },
                       {
@@ -9452,7 +9452,7 @@
                         "content": {
                           "uri": "tiles/0-2-5-6-4.glb"
                         },
-                        "geometricError": 0.21254919469356537,
+                        "geometricError": 0.8501967787742615,
                         "refine": "REPLACE"
                       },
                       {
@@ -9525,7 +9525,7 @@
                     "content": {
                       "uri": "tiles/0-2-5-6.glb"
                     },
-                    "geometricError": 0.425597608089447,
+                    "geometricError": 1.702390432357788,
                     "refine": "REPLACE"
                   },
                   {
@@ -9898,21 +9898,21 @@
                         "content": {
                           "uri": "tiles/0-2-5-7-7.glb"
                         },
-                        "geometricError": 0.21208472549915314,
+                        "geometricError": 0.8483389019966125,
                         "refine": "REPLACE"
                       }
                     ],
                     "content": {
                       "uri": "tiles/0-2-5-7.glb"
                     },
-                    "geometricError": 0.4255608916282654,
+                    "geometricError": 1.7022435665130615,
                     "refine": "REPLACE"
                   }
                 ],
                 "content": {
                   "uri": "tiles/0-2-5.glb"
                 },
-                "geometricError": 0.8512750267982483,
+                "geometricError": 3.405100107192993,
                 "refine": "REPLACE"
               },
               {
@@ -9963,7 +9963,7 @@
             "content": {
               "uri": "tiles/0-2.glb"
             },
-            "geometricError": 1.702879786491394,
+            "geometricError": 6.811519145965576,
             "refine": "REPLACE"
           },
           {
@@ -10588,14 +10588,14 @@
                             "content": {
                               "uri": "tiles/0-3-4-1-4-7.glb"
                             },
-                            "geometricError": 0.1062697023153305,
+                            "geometricError": 0.425078809261322,
                             "refine": "REPLACE"
                           }
                         ],
                         "content": {
                           "uri": "tiles/0-3-4-1-4.glb"
                         },
-                        "geometricError": 0.212666854262352,
+                        "geometricError": 0.850667417049408,
                         "refine": "REPLACE"
                       },
                       {
@@ -10668,7 +10668,7 @@
                     "content": {
                       "uri": "tiles/0-3-4-1.glb"
                     },
-                    "geometricError": 0.42557278275489807,
+                    "geometricError": 1.7022911310195923,
                     "refine": "REPLACE"
                   },
                   {
@@ -10997,7 +10997,7 @@
                         "content": {
                           "uri": "tiles/0-3-4-5-2.glb"
                         },
-                        "geometricError": 0.21275267004966736,
+                        "geometricError": 0.8510106801986694,
                         "refine": "REPLACE"
                       },
                       {
@@ -11220,7 +11220,7 @@
                         "content": {
                           "uri": "tiles/0-3-4-5-4.glb"
                         },
-                        "geometricError": 0.21136289834976196,
+                        "geometricError": 0.8454515933990479,
                         "refine": "REPLACE"
                       },
                       {
@@ -11443,7 +11443,7 @@
                         "content": {
                           "uri": "tiles/0-3-4-5-6.glb"
                         },
-                        "geometricError": 0.21275267004966736,
+                        "geometricError": 0.8510106801986694,
                         "refine": "REPLACE"
                       },
                       {
@@ -11472,7 +11472,7 @@
                     "content": {
                       "uri": "tiles/0-3-4-5.glb"
                     },
-                    "geometricError": 0.42572590708732605,
+                    "geometricError": 1.7029036283493042,
                     "refine": "REPLACE"
                   },
                   {
@@ -11823,7 +11823,7 @@
                         "content": {
                           "uri": "tiles/0-3-4-6-6.glb"
                         },
-                        "geometricError": 0.212436705827713,
+                        "geometricError": 0.849746823310852,
                         "refine": "REPLACE"
                       },
                       {
@@ -12024,14 +12024,14 @@
                         "content": {
                           "uri": "tiles/0-3-4-6-7.glb"
                         },
-                        "geometricError": 0.21288412809371948,
+                        "geometricError": 0.8515365123748779,
                         "refine": "REPLACE"
                       }
                     ],
                     "content": {
                       "uri": "tiles/0-3-4-6.glb"
                     },
-                    "geometricError": 0.42584800720214844,
+                    "geometricError": 1.7033920288085938,
                     "refine": "REPLACE"
                   },
                   {
@@ -12250,7 +12250,7 @@
                         "content": {
                           "uri": "tiles/0-3-4-7-0.glb"
                         },
-                        "geometricError": 0.21269309520721436,
+                        "geometricError": 0.8507723808288574,
                         "refine": "REPLACE"
                       },
                       {
@@ -12517,7 +12517,7 @@
                         "content": {
                           "uri": "tiles/0-3-4-7-4.glb"
                         },
-                        "geometricError": 0.21269309520721436,
+                        "geometricError": 0.8507723808288574,
                         "refine": "REPLACE"
                       },
                       {
@@ -12590,14 +12590,14 @@
                     "content": {
                       "uri": "tiles/0-3-4-7.glb"
                     },
-                    "geometricError": 0.42563989758491516,
+                    "geometricError": 1.7025595903396606,
                     "refine": "REPLACE"
                   }
                 ],
                 "content": {
                   "uri": "tiles/0-3-4.glb"
                 },
-                "geometricError": 0.8517361283302307,
+                "geometricError": 3.406944513320923,
                 "refine": "REPLACE"
               },
               {
@@ -12670,7 +12670,7 @@
             "content": {
               "uri": "tiles/0-3.glb"
             },
-            "geometricError": 1.7038516998291016,
+            "geometricError": 6.815406799316406,
             "refine": "REPLACE"
           },
           {
@@ -13039,7 +13039,7 @@
                     "content": {
                       "uri": "tiles/0-4-3-3.glb"
                     },
-                    "geometricError": 0.4247514009475708,
+                    "geometricError": 1.6990056037902832,
                     "refine": "REPLACE"
                   },
                   {
@@ -13134,7 +13134,7 @@
                 "content": {
                   "uri": "tiles/0-4-3.glb"
                 },
-                "geometricError": 0.8497288227081299,
+                "geometricError": 3.3989152908325195,
                 "refine": "REPLACE"
               },
               {
@@ -13229,7 +13229,7 @@
             "content": {
               "uri": "tiles/0-4.glb"
             },
-            "geometricError": 1.7009063959121704,
+            "geometricError": 6.803625583648682,
             "refine": "REPLACE"
           },
           {
@@ -13554,7 +13554,7 @@
                     "content": {
                       "uri": "tiles/0-5-2-2.glb"
                     },
-                    "geometricError": 0.42565739154815674,
+                    "geometricError": 1.702629566192627,
                     "refine": "REPLACE"
                   },
                   {
@@ -13671,7 +13671,7 @@
                 "content": {
                   "uri": "tiles/0-5-2.glb"
                 },
-                "geometricError": 0.8516318798065186,
+                "geometricError": 3.406527519226074,
                 "refine": "REPLACE"
               },
               {
@@ -13788,7 +13788,7 @@
             "content": {
               "uri": "tiles/0-5.glb"
             },
-            "geometricError": 1.703786015510559,
+            "geometricError": 6.815144062042236,
             "refine": "REPLACE"
           },
           {
@@ -14047,7 +14047,7 @@
                     "content": {
                       "uri": "tiles/0-6-1-0.glb"
                     },
-                    "geometricError": 0.4261373281478882,
+                    "geometricError": 1.7045493125915527,
                     "refine": "REPLACE"
                   },
                   {
@@ -14288,7 +14288,7 @@
                         "content": {
                           "uri": "tiles/0-6-1-2-0.glb"
                         },
-                        "geometricError": 0.21249879896640778,
+                        "geometricError": 0.8499951958656311,
                         "refine": "REPLACE"
                       },
                       {
@@ -14449,7 +14449,7 @@
                     "content": {
                       "uri": "tiles/0-6-1-2.glb"
                     },
-                    "geometricError": 0.42621171474456787,
+                    "geometricError": 1.7048468589782715,
                     "refine": "REPLACE"
                   },
                   {
@@ -14712,7 +14712,7 @@
                         "content": {
                           "uri": "tiles/0-6-1-3-2.glb"
                         },
-                        "geometricError": 0.21195895969867706,
+                        "geometricError": 0.8478358387947083,
                         "refine": "REPLACE"
                       },
                       {
@@ -14829,7 +14829,7 @@
                     "content": {
                       "uri": "tiles/0-6-1-3.glb"
                     },
-                    "geometricError": 0.4262115955352783,
+                    "geometricError": 1.7048463821411133,
                     "refine": "REPLACE"
                   },
                   {
@@ -15096,14 +15096,14 @@
                     "content": {
                       "uri": "tiles/0-6-1-7.glb"
                     },
-                    "geometricError": 0.42605796456336975,
+                    "geometricError": 1.704231858253479,
                     "refine": "REPLACE"
                   }
                 ],
                 "content": {
                   "uri": "tiles/0-6-1.glb"
                 },
-                "geometricError": 0.8525332808494568,
+                "geometricError": 3.410133123397827,
                 "refine": "REPLACE"
               },
               {
@@ -15242,7 +15242,7 @@
             "content": {
               "uri": "tiles/0-6.glb"
             },
-            "geometricError": 1.705365538597107,
+            "geometricError": 6.821462154388428,
             "refine": "REPLACE"
           },
           {
@@ -15563,7 +15563,7 @@
                         "content": {
                           "uri": "tiles/0-7-0-1-2.glb"
                         },
-                        "geometricError": 0.21286539733409882,
+                        "geometricError": 0.8514615893363953,
                         "refine": "REPLACE"
                       },
                       {
@@ -15680,7 +15680,7 @@
                     "content": {
                       "uri": "tiles/0-7-0-1.glb"
                     },
-                    "geometricError": 0.4259498119354248,
+                    "geometricError": 1.7037992477416992,
                     "refine": "REPLACE"
                   },
                   {
@@ -15921,7 +15921,7 @@
                         "content": {
                           "uri": "tiles/0-7-0-2-1.glb"
                         },
-                        "geometricError": 0.21266447007656097,
+                        "geometricError": 0.8506578803062439,
                         "refine": "REPLACE"
                       },
                       {
@@ -16144,7 +16144,7 @@
                         "content": {
                           "uri": "tiles/0-7-0-2-3.glb"
                         },
-                        "geometricError": 0.21299682557582855,
+                        "geometricError": 0.8519873023033142,
                         "refine": "REPLACE"
                       },
                       {
@@ -16239,7 +16239,7 @@
                     "content": {
                       "uri": "tiles/0-7-0-2.glb"
                     },
-                    "geometricError": 0.4260888397693634,
+                    "geometricError": 1.7043553590774536,
                     "refine": "REPLACE"
                   },
                   {
@@ -16458,7 +16458,7 @@
                         "content": {
                           "uri": "tiles/0-7-0-3-0.glb"
                         },
-                        "geometricError": 0.21268458664417267,
+                        "geometricError": 0.8507383465766907,
                         "refine": "REPLACE"
                       },
                       {
@@ -16619,7 +16619,7 @@
                     "content": {
                       "uri": "tiles/0-7-0-3.glb"
                     },
-                    "geometricError": 0.42602232098579407,
+                    "geometricError": 1.7040892839431763,
                     "refine": "REPLACE"
                   },
                   {
@@ -16864,7 +16864,7 @@
                     "content": {
                       "uri": "tiles/0-7-0-6.glb"
                     },
-                    "geometricError": 0.4260888397693634,
+                    "geometricError": 1.7043553590774536,
                     "refine": "REPLACE"
                   },
                   {
@@ -17065,14 +17065,14 @@
                     "content": {
                       "uri": "tiles/0-7-0-7.glb"
                     },
-                    "geometricError": 0.42602232098579407,
+                    "geometricError": 1.7040892839431763,
                     "refine": "REPLACE"
                   }
                 ],
                 "content": {
                   "uri": "tiles/0-7-0.glb"
                 },
-                "geometricError": 0.8522012233734131,
+                "geometricError": 3.4088048934936523,
                 "refine": "REPLACE"
               },
               {
@@ -17233,21 +17233,21 @@
             "content": {
               "uri": "tiles/0-7.glb"
             },
-            "geometricError": 1.7047687768936157,
+            "geometricError": 6.819075107574463,
             "refine": "REPLACE"
           }
         ],
         "content": {
           "uri": "tiles/0.glb"
         },
-        "geometricError": 3.4108057022094727,
+        "geometricError": 13.64322280883789,
         "refine": "REPLACE"
       }
     ],
     "content": {
       "uri": "tiles/background.glb"
     },
-    "geometricError": 6.821611404418945,
+    "geometricError": 1247.8441162109375,
     "refine": "ADD",
     "transform": [
       -0.04098281239793774,
