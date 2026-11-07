@@ -1,11 +1,12 @@
-# A drone's infrared video and its KLV metadata
+# A drone's video and its KLV metadata
 
-An extract of the MISB sample "Night Flight IR" (`Night Flight IR.mpg`, https://samples.ffmpeg.org/MPEG2/mpegts-klv/),
-for isard's example A drone's video (`addVideo({ video, klv })`):
+Esri's sample video for Full Motion Video (ArcGIS Online item `55ec6f32d5e342fcbfba376ca2cc409a`, "Sample video for
+Full Motion Video (FMV)", `Truck.ts`): a drone at about 2900 m following a truck on the Interstate 80 east of Cheyenne
+(Wyoming), 148 s, 19 September 2012. For isard's example A drone's video (`addVideo({ video, klv })`):
 
-- `night-flight-ir.mp4`: from 161.2 s to 262 s of the sample, its H.264 video scaled to 960 × 540 (`ffmpeg -ss 161.2
-  -to 262 -vf scale=960:-2 -c:v libx264 -crf 30 -an -movflags +faststart`);
-- `night-flight-ir.klv`: its KLV packets (MISB ST 0601, the UAS Datalink Local Set) from the one at 161.2 s, one after
-  another as they are in the sample.
+- `truck.mp4`: its H.264 video scaled to 1280 × 720, without its sound (`ffmpeg -an -vf scale=1280:-2 -c:v libx264
+  -preset slow -crf 30 -movflags +faststart`);
+- `truck.klv`: its KLV packets (MISB ST 0601, the UAS Datalink Local Set), 711 of them, one after another as they are
+  in the sample (`ffmpeg -map 0:d -c copy -f data`).
 
-The sample's origin and licence are not stated where it is published; it is a MISB test sample.
+The sample is published by Esri for trying out ArcGIS's Full Motion Video; no licence is stated where it is published.
